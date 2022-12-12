@@ -113,3 +113,24 @@ button {
     color: #5e5f61;
     font-weight: 100;
 }
+.third-box {
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+}
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: lighter;
+    font-style: italic;
+    width: 690px;
+}
+.thor {
+    color: #1f2937;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 350px;
+}
