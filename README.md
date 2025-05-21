@@ -1,6 +1,6 @@
 # Project-Landing-Page
 My First Landing Page
 
-![SVG con CSS](my-style.svg)
+<img ![SVG con CSS](my-style.svg)>
 
 
