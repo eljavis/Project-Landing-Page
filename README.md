@@ -1,6 +1,6 @@
 # Project-Landing-Page
 My First Landing Page
 
-<img ![SVG con CSS](my-style.svg)>
+<img src="my-style.svg" width="400" height="400" alt="css-in-readme"> 
 
 
